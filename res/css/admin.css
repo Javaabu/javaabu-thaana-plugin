@@ -1,0 +1,111 @@
+/*
+	Admin CSS
+*/
+
+/*------------------------------------*\
+	TYPOGRAPHY
+\*------------------------------------*/
+
+@font-face {
+	font-family:'MV Faseyha';
+	src:url('../fonts/mv_faseyha.otf')  format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+	font-family:'MV Waheed';
+	src:url('../fonts/mv_waheed.otf')  format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+.thaanaKeyboardInput,
+.post-title a.row-title,
+.column-author > :first-child,
+.column-categories a,
+.column-tags a,
+#new-tag-post_tag,
+#newcategory,
+.column-comment p,
+#tag-name,
+.row-title,
+#tag-description,
+.tagcloud a,
+#attachment_caption,
+#attachment_content,
+#wp-admin-bar-user-info .display-name,
+#first_name,
+#last_name,
+#display_name,
+#blogname,
+#blogdescription,
+#start_of_week,
+.in-widget-title
+{
+	font:300 16px "MV Faseyha", "MV Waheed", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	direction: rtl;
+	line-height: 26px;
+  	unicode-bidi: embed;
+}
+
+.in-widget-title {
+	padding-left: 5px;
+}
+
+#categorychecklist,
+#categorychecklist-pop,
+.tagchecklist,
+#newcategory_parent,
+select#parent_id,
+.response-links a:first-child,
+.submitted-on a:last-child,
+.column-parent a,
+#wp-admin-bar-my-account > a,
+#wp-admin-bar-site-name > a,
+.edit-menu-item-title,
+.menu-item-title,
+#custom-menu-item-name
+{
+	font:300 14px "MV Faseyha", "MV Waheed", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	direction: rtl;
+	line-height: 26px;
+  	unicode-bidi: embed;	
+}
+
+#timestamp b,
+.timestamp-wrap select
+{
+	font:300 12px "MV Faseyha", "MV Waheed", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	direction: rtl;
+	line-height: 24px;
+  	unicode-bidi: embed;	
+}
+
+input#title,
+iframe#content_ifr html,
+#title {
+	font:300 20px "MV Waheed", "MV Faseyha", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	font-weight: normal;
+	direction: rtl;
+	line-height: 35px;
+  	unicode-bidi: embed;
+}
+
+#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+	margin-left: 0px;
+	margin-right: 6px;
+}
+
+input#title {
+	height: 2em !important;
+}
+
+.tagchecklist span {
+    float: right;
+    margin-right: 25px;
+}
+
+.tagchecklist span a {
+    margin: 1px -17px 0px 0px;
+}

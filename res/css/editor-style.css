@@ -1,0 +1,33 @@
+/**
+ * Editor Stylesheet
+ */
+
+@font-face {
+	font-family:'MV Faseyha';
+	src:url('../fonts/mv_faseyha.otf')  format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+	font-family:'MV Waheed';
+	src:url('../fonts/mv_waheed.otf')  format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+body, #tinymce {
+	font-family: "MV Faseyha", "MV Waheed", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 1.8;
+	direction: rtl;
+	unicode-bidi: embed;
+	max-width: none;
+}
+
+h1, h2, h3, h4, h5, h6, blockquote{
+	font-family:"MV Waheed", "MV Faseyha", Faruma, "mv iyyu nala", "mv elaaf normal", "MV Waheed", "MV Boli";
+	font-weight: normal;
+	line-height: 1.6;
+}

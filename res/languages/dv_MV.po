@@ -1,0 +1,416 @@
+# Translation of 4.5.x in Dhivehi
+# This file is distributed under the same license as the 4.5.x package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-28 22:29+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"Project-Id-Version: 4.5.x\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: dv_MV\n"
+
+#. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
+#: wp-includes/locale.php:211
+msgctxt "text direction"
+msgid "ltr"
+msgstr "rtl"
+
+#. translators: $dec_point argument for http://php.net/number_format, default
+#. is .
+#: wp-includes/locale.php:203
+msgid "number_format_decimal_point"
+msgstr "."
+
+#. translators: $thousands_sep argument for http://php.net/number_format,
+#. default is ,
+#: wp-includes/locale.php:190
+msgid "number_format_thousands_sep"
+msgstr ","
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:158
+msgctxt "genitive"
+msgid "June"
+msgstr "ޖޫން"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:159
+msgctxt "genitive"
+msgid "July"
+msgstr "ޖުލައި"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:160
+msgctxt "genitive"
+msgid "August"
+msgstr "އޯގަސްޓް"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:161
+msgctxt "genitive"
+msgid "September"
+msgstr "ސެޕްޓެމްބަރ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:162
+msgctxt "genitive"
+msgid "October"
+msgstr "އޮކްޓޯބަރ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:163
+msgctxt "genitive"
+msgid "November"
+msgstr "ނޮވެމްބަރ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:164
+msgctxt "genitive"
+msgid "December"
+msgstr "ޑިސެމްބަރ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:153
+msgctxt "genitive"
+msgid "January"
+msgstr "ޖެނުއަރީ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:154
+msgctxt "genitive"
+msgid "February"
+msgstr "ފެބްރުއަރީ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:155
+msgctxt "genitive"
+msgid "March"
+msgstr ""
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:156
+msgctxt "genitive"
+msgid "April"
+msgstr "އޭޕްރިލް"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:157
+msgctxt "genitive"
+msgid "May"
+msgstr "މެއި"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:177
+msgctxt "November abbreviation"
+msgid "Nov"
+msgstr "ނޮވެމް"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:178
+msgctxt "December abbreviation"
+msgid "Dec"
+msgstr "ޑިސެމް"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:173
+msgctxt "July abbreviation"
+msgid "Jul"
+msgstr "ޖުލައި"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:174
+msgctxt "August abbreviation"
+msgid "Aug"
+msgstr "އޯގަސް"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:175
+msgctxt "September abbreviation"
+msgid "Sep"
+msgstr "ސެޕްޓެ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:176
+msgctxt "October abbreviation"
+msgid "Oct"
+msgstr "އޮކްޓޯ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:167
+msgctxt "January abbreviation"
+msgid "Jan"
+msgstr "ޖެނުއަ"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:168
+msgctxt "February abbreviation"
+msgid "Feb"
+msgstr "ފެބްރު"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:169
+msgctxt "March abbreviation"
+msgid "Mar"
+msgstr "މާރޗް"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:170
+msgctxt "April abbreviation"
+msgid "Apr"
+msgstr "އޭޕްރި"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:171
+msgctxt "May abbreviation"
+msgid "May"
+msgstr "މެއި"
+
+#. translators: three-letter abbreviation of the month
+#: wp-includes/locale.php:172
+msgctxt "June abbreviation"
+msgid "Jun"
+msgstr "ޖޫން"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:124
+msgctxt "Wednesday initial"
+msgid "W"
+msgstr "ބ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:125
+msgctxt "Thursday initial"
+msgid "T"
+msgstr "ބ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:126
+msgctxt "Friday initial"
+msgid "F"
+msgstr "ހ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:127
+msgctxt "Saturday initial"
+msgid "S"
+msgstr "ހ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:121
+msgctxt "Sunday initial"
+msgid "S"
+msgstr "އ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:122
+msgctxt "Monday initial"
+msgid "M"
+msgstr "ހ"
+
+#. translators: one-letter abbreviation of the weekday
+#: wp-includes/locale.php:123
+msgctxt "Tuesday initial"
+msgid "T"
+msgstr "އ"
+
+#. translators: %s: Name of the directory (build)
+#: wp-includes/locale.php:228
+msgid "The %s directory of the develop repository must be used for RTL."
+msgstr ""
+
+#. translators: localized date format, see http://php.net/date
+#: wp-includes/locale.php:387 wp-includes/media.php:3040
+msgid "F j, Y"
+msgstr "F j، Y"
+
+#. translators: localized time format, see http://php.net/date
+#: wp-includes/locale.php:389
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: localized date and time format, see http://php.net/date
+#: wp-includes/locale.php:391
+msgid "F j, Y g:i a"
+msgstr "F j، Y g:i a"
+
+#. translators: month name
+#: wp-includes/locale.php:139 wp-includes/locale.php:167
+msgid "January"
+msgstr "ޖެނުއަރީ"
+
+#. translators: month name
+#: wp-includes/locale.php:140 wp-includes/locale.php:168
+msgid "February"
+msgstr "ފެބްރުއަރީ"
+
+#. translators: month name
+#: wp-includes/locale.php:141 wp-includes/locale.php:169
+msgid "March"
+msgstr "މާރޗް"
+
+#. translators: month name
+#: wp-includes/locale.php:142 wp-includes/locale.php:170
+msgid "April"
+msgstr "އޭޕްރިލް"
+
+#. translators: month name
+#: wp-includes/locale.php:143 wp-includes/locale.php:171
+msgid "May"
+msgstr "މެއި"
+
+#. translators: month name
+#: wp-includes/locale.php:144 wp-includes/locale.php:172
+msgid "June"
+msgstr "ޖޫން"
+
+#. translators: month name
+#: wp-includes/locale.php:145 wp-includes/locale.php:173
+msgid "July"
+msgstr "ޖުލައި"
+
+#. translators: month name
+#: wp-includes/locale.php:146 wp-includes/locale.php:174
+msgid "August"
+msgstr "އޯގަސްޓް"
+
+#. translators: month name
+#: wp-includes/locale.php:147 wp-includes/locale.php:175
+msgid "September"
+msgstr "ސެޕްޓެމްބަރ"
+
+#. translators: month name
+#: wp-includes/locale.php:148 wp-includes/locale.php:176
+msgid "October"
+msgstr "އޮކްޓޯބަރ"
+
+#. translators: month name
+#: wp-includes/locale.php:149 wp-includes/locale.php:177
+msgid "November"
+msgstr "ނޮވެމްބަރ"
+
+#. translators: month name
+#: wp-includes/locale.php:150 wp-includes/locale.php:178
+msgid "December"
+msgstr "ޑިސެމްބަރ"
+
+#. translators: weekday
+#: wp-includes/locale.php:112 wp-includes/locale.php:121
+#: wp-includes/locale.php:130
+msgid "Sunday"
+msgstr "އާދިއްތަ"
+
+#. translators: weekday
+#: wp-includes/locale.php:113 wp-includes/locale.php:122
+#: wp-includes/locale.php:131
+msgid "Monday"
+msgstr "ހޯމަ"
+
+#. translators: weekday
+#: wp-includes/locale.php:114 wp-includes/locale.php:123
+#: wp-includes/locale.php:132
+msgid "Tuesday"
+msgstr "އަންގާރަ"
+
+#. translators: weekday
+#: wp-includes/locale.php:115 wp-includes/locale.php:124
+#: wp-includes/locale.php:133
+msgid "Wednesday"
+msgstr "ބުދަ"
+
+#. translators: weekday
+#: wp-includes/locale.php:116 wp-includes/locale.php:125
+#: wp-includes/locale.php:134
+msgid "Thursday"
+msgstr "ބުރާސްފަތި"
+
+#. translators: weekday
+#: wp-includes/locale.php:117 wp-includes/locale.php:126
+#: wp-includes/locale.php:135
+msgid "Friday"
+msgstr "ހުކުރު"
+
+#. translators: weekday
+#: wp-includes/locale.php:118 wp-includes/locale.php:127
+#: wp-includes/locale.php:136
+msgid "Saturday"
+msgstr "ހޮނިހިރު"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:130
+msgid "Sun"
+msgstr "އާދި"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:131
+msgid "Mon"
+msgstr "ހޯމަ"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:132
+msgid "Tue"
+msgstr "އަން"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:133
+msgid "Wed"
+msgstr "ބުދަ"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:134
+msgid "Thu"
+msgstr "ބުރާ"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:135
+msgid "Fri"
+msgstr "ހުކު"
+
+#. translators: three-letter abbreviation of the weekday
+#: wp-includes/locale.php:136
+msgid "Sat"
+msgstr "ހޮނި"
+
+#: wp-includes/locale.php:181
+msgid "am"
+msgstr "އމ"
+
+#: wp-includes/locale.php:182
+msgid "pm"
+msgstr "ޕމ"
+
+#: wp-includes/locale.php:183
+msgid "AM"
+msgstr "އމ"
+
+#: wp-includes/locale.php:184
+msgid "PM"
+msgstr "ޕމ"
+
+#. translators: opening curly double quote
+#: wp-includes/formatting.php:88 wp-includes/formatting.php:4717
+msgctxt "opening curly double quote"
+msgid "&#8220;"
+msgstr "&#8221;"
+
+#. translators: closing curly double quote
+#: wp-includes/formatting.php:90
+msgctxt "closing curly double quote"
+msgid "&#8221;"
+msgstr "&#8220;"
+
+#. translators: opening curly single quote
+#: wp-includes/formatting.php:101
+msgctxt "opening curly single quote"
+msgid "&#8216;"
+msgstr "&#8217;"
+
+#. translators: closing curly single quote
+#: wp-includes/formatting.php:103
+msgctxt "closing curly single quote"
+msgid "&#8217;"
+msgstr "&#8216;"
