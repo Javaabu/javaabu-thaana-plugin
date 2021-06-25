@@ -4,9 +4,9 @@
 Plugin Name: Javaabu Thaana
 Plugin URI: http://wordpress.org/extend/plugins/javaabu-thaana/
 Description: Adds Dhivehi language to WordPress and Thaana editing support to WordPress backend
-Version: 0.1
-Author: Arushad Ahmed
-Author URI: http://arushad.org
+Version: 1.0.0
+Author: Javaabu Pvt. Ltd.
+Author URI: https://javaabu.com
 Text Domain: javaabu-thaana
 */
 
